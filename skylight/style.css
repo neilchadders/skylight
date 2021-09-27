@@ -1,0 +1,165 @@
+
+  body {
+
+  font: 400 15px/1.8 Questrial, sans-serif;
+  
+  background-image: url("whitebrick.jpg");
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+
+  }
+  
+
+  .quote{
+    
+    font-size: 130%;
+    font-weight: 900;
+    color: #2d2d30;
+    letter-spacing: .5rem;
+   
+  }
+
+.author{
+  letter-spacing: .5rem;
+
+}
+
+.title{
+   
+  padding-top: 70px;
+  padding-bottom:70px ;
+  text-align: center;
+  max-width: 400px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  opacity: 0.7;
+}
+
+.first-pic {
+  width: 80%;
+ 
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ box-shadow:  -2px -2px 3px 0px rgba(0,0,0,0.47);
+
+}
+
+
+  #band{
+    margin:10%;
+    background-color: white;
+    padding: 5%;
+     box-shadow:  -2px -2px 3px 0px rgba(0,0,0,0.47);
+
+  
+  }
+ 
+
+  .bg-1 {
+    background: #2d2d30;
+    color: #bdbdbd;
+  }
+
+.main-text{
+  padding-top: 7%;
+  padding-left: 5%; 
+  padding-right: 5%;
+  color: black;
+}
+
+  .list-group{
+    padding-left: 10%;
+    padding-right: 10%;
+  } 
+
+.location{
+  padding-left: 15%;
+  font-size: 150%;
+  color: #2d2d30;
+}
+  
+.thumbnail{
+  height: 360px;
+  width: 280px;
+   object-fit: fill;
+}
+
+.gig-image{
+  min-height:150px;
+  max-height:150px ;
+
+  object-fit: cover;
+
+
+}
+
+  //navbar css
+  
+  .nav-tabs li a {
+    color: #777;
+  }
+  
+  .navbar {
+    font-family: Montserrat, sans-serif;
+    margin-bottom: 0;
+    background-color: #2d2d30;
+    border: 0;
+    font-size: 11px !important;
+    letter-spacing: 4px;
+    opacity: 0.9;
+  }
+  .navbar li a, .navbar .navbar-brand { 
+    color: #d5d5d5 !important;
+  }
+  .navbar-nav li a:hover {
+    color: #fff !important;
+  }
+  .navbar-nav li.active a {
+    color: #fff !important;
+    background-color: #29292c !important;
+  }
+  .navbar-default .navbar-toggle {
+    border-color: transparent;
+  }
+  .open .dropdown-toggle {
+    color: #fff;
+    background-color: #555 !important;
+  }
+  .dropdown-menu li a {
+    color: #000 !important;
+  }
+  .dropdown-menu li a:hover {
+    background-color: red !important;
+  }
+ 
+
+
+ //Carousel
+
+  .carousel-inner img {
+  
+  }
+
+//foot
+
+.bottom-footer{
+
+  color: black;
+  margin-top: 2%;
+}
+
+.fa{
+  padding: 2%;
+  color: white;
+  font-size: 30px;
+}
+
+
+ 
