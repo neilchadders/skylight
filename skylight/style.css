@@ -17,7 +17,7 @@
     font-size: 130%;
     font-weight: 900;
     color: #2d2d30;
-    letter-spacing: .5rem;
+    letter-spacing: .3rem;
    
   }
 
@@ -100,7 +100,7 @@
 
 }
 
-  //navbar css
+
   
   .nav-tabs li a {
     color: #777;
@@ -141,25 +141,12 @@
  
 
 
- //Carousel
 
-  .carousel-inner img {
-  
-  }
 
-//foot
-
-.bottom-footer{
-
+.social-media {
+  font-size: 3rem;
   color: black;
-  margin-top: 2%;
-}
+  padding: 1%:
+  
+ }
 
-.fa{
-  padding: 2%;
-  color: white;
-  font-size: 30px;
-}
-
-
- 
